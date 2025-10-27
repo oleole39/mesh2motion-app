@@ -1,4 +1,5 @@
 import { type AnimationClip } from 'three'
+import { BaseUrl } from '../../BaseUrl'
 import { type ThemeManager } from '../../ThemeManager'
 import { SkeletonType } from '../../enums/SkeletonType'
 import { type AnimationWithState } from './interfaces/AnimationWithState'
